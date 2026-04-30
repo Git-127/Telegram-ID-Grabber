@@ -34,7 +34,7 @@ If no message is forwarded, the bot shows the current chat ID instead.
 ## 📁 Project Structure
 
 ```bash
-chat-id-finder/
+chat-id-grabber/
 │
 ├── main.py
 └── README.md
